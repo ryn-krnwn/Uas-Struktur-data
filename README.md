@@ -1,1 +1,3 @@
-# Uas-Struktur-data
+NAMA : RYAN KURNIAWAN
+KELAS : TIF PK 21
+NPM : 21552011165
